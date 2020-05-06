@@ -13,7 +13,7 @@ public class TestEncoding {
         int B=1;
         String C="a"+B;
         System.out.println(A==C);
-        System.out.println(A.equals(C));
+        System.out.println(A.equals(C));//123
     }
 }
 
